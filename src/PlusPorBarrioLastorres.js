@@ -1,4 +1,4 @@
-module.exports = class PlusPorBarrioVerde {
+module.exports = class PlusPorBarrioLastorres {
   aplicarPlusPorBarrio(propinaOriginal) {
     return propinaOriginal;
   }
