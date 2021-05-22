@@ -1,5 +1,5 @@
 module.exports = class EstadoIndiferente {
-  calcularPropina() {
-    return;
+  calcularPropina(importe, cliente) {
+    return cliente.getPlataEnElBolsillo();
   }
 };
